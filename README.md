@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**somuthink/somuthink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Alt Text](https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif)
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somuthink&layout=compact&theme=github_dark)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+  
