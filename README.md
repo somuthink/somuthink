@@ -5,7 +5,7 @@
 ### Welcome to my github🍄
 
 
-I'm 14 y.o boy from Russia who loves computers and tech
+I'm 14 y.o boy from Russia who loves computers and other tech.
 
 ## My skills 
 <img  width="350" alt="GIF" align="right" src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif">
@@ -17,6 +17,7 @@ I'm 14 y.o boy from Russia who loves computers and tech
   <li>✨ Figma</li>
   <li>🤔 little golang</li>
 </ul>
+</br>
 
 ```--------------- Currently working on LOWWO_FI -----------------```
 
