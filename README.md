@@ -1,12 +1,26 @@
-### Hi there 👋
-
-<div style="display: flex;">
-  <div style="flex: 1;">Элемент 1</div>
-  <div style="flex: 1;">Элемент 2</div>
-</div>
+### Welcome to my github🍄
 
 
-![Alt Text](https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif)
+## I'm 14 y.o boy from russia
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif">
+
+### - Learning :
+- ✨ Data Structures & Algorithms
+- ✨ Generative Adversarial Networks
+
+### - Hobbies : 
+- ✨ Gaming Addict
+- ✨ Watching Anime
+- ✨ Reading Light Novels
+- ✨ Badminton (Neighbourhood Professional XD)
+
+</br>
+</br>
+</br>
+
+
+![Alt Text]()
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somuthink&layout=compact&theme=github_dark)
