@@ -18,6 +18,8 @@ I'm 14 y.o boy from Russia who loves computers and other tech.
   <li>🤔 little golang</li>
 </ul>
 
+<br/>
+
 ## For now I`m
 ```------ Currently working on LOWWO_FI -------```
 ```------ learning golang ------```
