@@ -1,19 +1,23 @@
 ### Welcome to my github🍄
 
 
-## I'm 14 y.o boy from russia
+I'm 14 y.o boy from russia who loves computers and tech
 
+## My skills 👾
 <img hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif">
+<ul>
+  <li>🐍 Python</li>
+  <li>🕸 React/NextJS</li>
+  <li>🐬 MySQL </li>
+  <li>✨ Figma</li>
+  <li>🤔 little golang</li>
+  
+  
+</ul>
+  
 
-### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
-
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+  
+</li>
 
 </br>
 </br>
@@ -23,9 +27,9 @@
 ![Alt Text]()
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somuthink&layout=compact&theme=github_dark)
 
-</div>
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
