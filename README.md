@@ -22,7 +22,7 @@ I'm 14 y.o boy from Russia who loves computers and other tech.
 ```------ Currently working on LOWWO_FI -------```
 ```------ learning golang ------```
 
-</br>
+
 
 ## <img  width="25" alt="GIF" src="assets/purple-bat.gif"> Contact me
 
