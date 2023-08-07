@@ -5,10 +5,11 @@
 ### Welcome to my github🍄
 
 
-I'm 14 y.o boy from Russia who loves computers and other tech.
+I'm 14 y.o boy from Russia who loves computers and programming.
 
 ## My skills 
-<img  width="320" alt="GIF" align="right" src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif">
+<img  width="350" alt="GIF" align="right" src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif">
+<br/>
 
 <ul >
   <li>🐍 Python</li>
@@ -21,8 +22,8 @@ I'm 14 y.o boy from Russia who loves computers and other tech.
 <br/>
 
 ## For now I`m
-```------ Currently working on LOWWO_FI -------```
-```------ learning golang ------```
+```working on LOWWO_FI```
+```learning golang```
 
 
 
