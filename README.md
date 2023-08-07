@@ -9,7 +9,7 @@ I'm 14 y.o boy from Russia who loves computers and programming.
 
 ## My skills 
 
-
+<img  width="320" alt="GIF" align="right" src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif">
 
 <ul >
   <li>🐍 Python</li>
