@@ -20,8 +20,7 @@
 
 
 ## For now I`m
-```working on LOWWO_FI```
-```learning golang```
+```nothing```
 
 
 
