@@ -2,7 +2,7 @@
 
 <img width="40" alt="GIF" src="assets/kirby-pink.gif">
 
-### Welcome to my github🍄
+### Welcome to my github
 
 
 ## My skills 
