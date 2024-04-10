@@ -14,7 +14,7 @@
   <li>⚛ React/NextJS</li>
   <li>🐬 MySQL </li>
   <li>✨ Figma</li>
-  <li>🤔 little golang</li>
+  <li>🦫 Golang</li>
 </ul>
 
 
