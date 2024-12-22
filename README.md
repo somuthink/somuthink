@@ -1,6 +1,6 @@
 
 
-<img  width="400" alt="GIF" src="./assets/sinji.gif">
+<img  width="400" alt="GIF" src="./assets/shinji.gif">
 
 
 
